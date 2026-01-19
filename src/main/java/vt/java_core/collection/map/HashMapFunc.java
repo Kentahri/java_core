@@ -1,9 +1,9 @@
-package vt.java_core.map;
+package vt.java_core.collection.map;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import vt.java_core.object.User;
+import vt.java_core.collection.object.User;
 
 public class HashMapFunc {
     public static void main(String[] args) {

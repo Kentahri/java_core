@@ -1,6 +1,6 @@
-package vt.java_core.list;
+package vt.java_core.collection.list;
 
-import vt.java_core.object.User;
+import vt.java_core.collection.object.User;
 
 import java.util.Comparator;
 import java.util.List;

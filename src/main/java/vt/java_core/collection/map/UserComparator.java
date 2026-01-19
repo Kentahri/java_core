@@ -1,6 +1,6 @@
-package vt.java_core.map;
+package vt.java_core.collection.map;
 
-import vt.java_core.object.User;
+import vt.java_core.collection.object.User;
 
 import java.util.Comparator;
 

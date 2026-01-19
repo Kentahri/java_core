@@ -1,4 +1,4 @@
-package vt.java_core.object;
+package vt.java_core.collection.object;
 
 import java.util.Objects;
 
